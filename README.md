@@ -1,4 +1,4 @@
-# CS771-project
+# CS770-project
 Group 10 
 To run:
 - download all .arff file
